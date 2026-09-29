@@ -93,3 +93,4 @@ Please note that as this is a front-end-only application, certain features such 
 
 ## Conclusion
 Congratulations! You have successfully installed the Nail Boutique application locally and learned about its key features. Feel free to explore the application, book appointments, and customize it further according to your needs. If you have any questions or encounter any issues, please refer to the project's documentation or seek assistance from the project's maintainers. Enjoy your nail salon browsing and booking experience with Nail Boutique!
+# magic-nail
